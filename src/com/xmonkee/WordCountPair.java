@@ -1,4 +1,4 @@
-package com.company;
+package com.xmonkee;
 
 /**
  * Created by mandu on 07/12/14.

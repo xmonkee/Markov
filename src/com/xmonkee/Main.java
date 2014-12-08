@@ -1,4 +1,4 @@
-package com.company;
+package com.xmonkee;
 
 /**
  * Markov Chain main executable funciton. Calls Markov with text

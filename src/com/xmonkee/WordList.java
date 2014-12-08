@@ -1,4 +1,4 @@
-package com.company;
+package com.xmonkee;
 import java.util.ArrayList;
 import java.util.Random;
 

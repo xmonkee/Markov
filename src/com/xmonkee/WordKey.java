@@ -1,4 +1,4 @@
-package com.company;
+package com.xmonkee;
 import java.util.LinkedList;
 
 public class WordKey {
